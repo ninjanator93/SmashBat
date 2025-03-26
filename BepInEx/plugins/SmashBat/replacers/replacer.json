@@ -1,0 +1,29 @@
+{
+    "replacements": [
+        {
+            "matches":[
+			"*:Wood Hollow Medium - Impact - Heavy01",
+            "*:Wood Hollow Medium - Impact - Heavy02",
+            "*:Wood Hollow Medium - Impact - Heavy03",
+			],
+            "sounds": [
+				{
+					"sound": "bat.ogg",
+					"weight": 40
+				},
+				{
+					"sound": "bat2.ogg",
+					"weight": 20
+				},
+				{
+					"sound": "bat3.ogg",
+					"weight": 20
+				},
+				{
+					"sound": "bat4.ogg",
+					"weight": 20
+				}
+            ]
+        }
+    ]
+}

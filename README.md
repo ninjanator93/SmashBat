@@ -1,2 +1,6 @@
-# SmashBat
-Replaces Vanilla bat sounds with the baseball bat sound from Super Smash Bros to R.E.P.O
+**SmashBat created by Ninjanator93**
+- Replaces heavy baseball bat hits with the Bat sound from Super Smash Bros
+
+## Releases
+
+## Version 1.0.0
