@@ -1,0 +1,10 @@
+{
+  "name": "SmashBat",
+  "version_number": "1.0.1",
+  "description": "Replaces the baseball bat hit sounds with the bat sound from Super Smash Bros",
+  "website_url": "",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "loaforc-loaforcsSoundAPI-2.0.5"
+  ]
+}

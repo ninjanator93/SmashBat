@@ -1,0 +1,12 @@
+{
+    "replacements": [
+        {
+            "matches":"*:baseball bat hit",
+            "sounds": [
+				{
+					"sound": "bat.mp3",
+				}
+            ]
+        }
+    ]
+}
